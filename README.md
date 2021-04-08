@@ -1,2 +1,2 @@
 # Game-Of-Life
-Mini version of conway's game of life for c langauge. Made this as a lab for class, posting it here as a mini thing that I've worked on. Maybe in the future I can implement a better algorithm that isn't brute-force checking every individual element around every index. 
+Mini 40x 40 version of conway's game of life for c langauge. Made this as a lab for class, posting it here as a mini thing that I've worked on. There's either an interactive mode or batch mode depending on if there is a file as an argument when executing the program. Maybe in the future I can implement a better algorithm that isn't brute-force checking every individual element around every index. 
